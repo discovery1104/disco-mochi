@@ -1,0 +1,64 @@
+/* 基本設定 */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #ffffff; /* 白色の文字 */
+    margin: 0;
+    padding: 0;
+    background-image: url(back.png);
+    background-size: cover;
+}
+body {
+    background-color: #121212; /* 背景色は深い黒 */
+}
+/* ヘッダーのスタイリング */
+
+/* 背景のスタイリング */
+
+.haikei {
+    padding: 20px;
+    text-align: center;
+    background-color: #00000083; /* ここに希望の色を設定 */
+    margin: auto; /* 中央寄せ */
+    padding: 20px; /* 内側のスペース */
+    width: 90%; /* 例: 画面の90%の幅 */
+    height: 90%; /* 例: 画面の90%の高さ */
+    border-radius: 20px;
+
+}
+.left {
+    text-align: left;
+    padding-left: 50px;
+}
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    border: 2px solid #7a7a7a; /* グレーのボーダー */
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+    box-shadow: 0px 0px 20px #ffffff; /* 白色の影 */
+}
+
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+h3 {
+    font-size: 1.6em;
+    margin-bottom: 10px;
+    border: 2px solid #7a7a7a; /* グレーのボーダー */
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+    box-shadow: 0px 0px 20px #ffffff; /* 白色の影 */
+}
+h4 {
+    font-size: 1.8em;
+}
+
+p {
+    font-size: 1.2em;
+}
+a {
+ color:#ffffff}
